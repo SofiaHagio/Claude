@@ -72,13 +72,15 @@ CheckPoint-02/
 ├── index.html
 ├── css/
 │   └── style.css
-└── images/
-    ├── hero.webp
-    ├── sobre.jpg
-    ├── card1.webp
-    ├── card2.jpeg
-    ├── card3.jpeg
-    └── card4.jpg
+├── images/
+│    ├── hero.webp
+│    ├── sobre.jpg
+│    ├── card1.webp
+│    ├── card2.jpeg
+│    ├── card3.jpeg
+│    └── card4.jpg
+│
+└── README.md
 ```
 
 ---
