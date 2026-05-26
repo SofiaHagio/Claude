@@ -68,7 +68,7 @@ cd CheckPoint-02
 ## 🗂️ Estrutura do reporistório 
 
 ```
-CheckPoint-02/
+Claude
 ├── index.html
 ├── css/
 │   └── style.css
